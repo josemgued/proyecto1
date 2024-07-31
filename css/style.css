@@ -515,7 +515,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header h2 {
   font-size: 32px;
-  color: #0c2e8a;
+  color: blue;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -726,13 +726,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #call-to-action {
-  background: #081e5b;
+  background: rgb(0, 0, 0);
   background-size: cover;
-  padding: 40px 0;
+  padding: 15px 0;
 }
 
 #call-to-action .cta-title {
-  color: #fff;
+  color: white;
   font-size: 28px;
   font-weight: 700;
   text-align: c;
@@ -751,7 +751,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 8px 26px;
   border-radius: 10px;
   transition: 0.5s;
-  margin: 10px;
+  margin: 5px;
   border: 3px solid #fff;
   color: #fff;
   }
