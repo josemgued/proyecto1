@@ -598,7 +598,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #services {
-  background-color: #03812f; /* borrame */
+  background-color: white;
   padding: 30px 0 0 0;
 }
 
@@ -661,7 +661,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio {
   background: #fff;
   padding: 30px 0;
-  background-color: red; /* BORRAME */
+  background-color: white;
 }
 
 #portfolio img{
@@ -765,8 +765,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #team {
-  background: yellow;/* borrame */
-  /* background: #fff; */ /* quita el comentario */
+  
+  background: #fff;
   padding: 30px 0 0 0;
 }
 
@@ -805,7 +805,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact {
   padding: 30px 0 0 0;
-  background-color: plum;/* borrame */
+  background-color:white ;
 }
 
 #contact .contact-info {
@@ -875,7 +875,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #footer {
-  background:pink;
+  background:black;
   padding-bottom: 12px;
   font-size: 14px;
 }
@@ -883,16 +883,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .copyright {
   text-align: center;
   padding-top: 15px;
+  color: white;
 }
 
 #footer .credits {
   text-align: center;
   font-size: 13px;
-  color: black;
+  color: white;
 }
 
 #footer .credits a {
-  color: #0c2e8a;
+  color: white;
 }
 
 @media (min-width: 768px) {
